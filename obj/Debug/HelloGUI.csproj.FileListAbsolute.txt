@@ -1,0 +1,15 @@
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\bin\Debug\HelloGUI.exe.config
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\bin\Debug\HelloGUI.exe
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\bin\Debug\HelloGUI.pdb
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI.csprojAssemblyReference.cache
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\obj\Debug\MainWindow.g.cs
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\obj\Debug\App.g.cs
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI_MarkupCompile.cache
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI_MarkupCompile.lref
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\obj\Debug\MainWindow.baml
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI.g.resources
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI.Properties.Resources.resources
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI.csproj.GenerateResource.cache
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI.csproj.CoreCompileInputs.cache
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI.exe
+C:\Users\SingHaTai\source\repos\HelloGUI\HelloGUI\obj\Debug\HelloGUI.pdb
